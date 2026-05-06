@@ -59,8 +59,8 @@ session.headers.update(headers)
 blocklists: List[Dict[str, str]] = [
     {
         "name": "Hagezi Ultimate Mini",
-        "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.mini.txt",
-        "backup_url": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/ultimate.mini.txt",
+        "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/ultimate.mini-onlydomains.txt",
+        "backup_url": "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/ultimate.mini-onlydomains.txt",
         "priority": 10000
     }
 ]
