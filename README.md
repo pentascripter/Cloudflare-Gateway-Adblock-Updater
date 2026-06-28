@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-The Python script in this repository automates updating your Cloudflare Zero Trust Gateway policy with the highly recommended and effective [Hagezi](https://github.com/hagezi/dns-blocklists) Multi Pro++ DNS filter list.
+The Python script in this repository automates updating your Cloudflare Zero Trust Gateway policy with the highly recommended and effective [Hagezi](https://github.com/hagezi/dns-blocklists) Multi Pro++ DNS filter list
 
 ## Features
 
